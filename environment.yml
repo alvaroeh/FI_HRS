@@ -1,0 +1,8 @@
+
+name: research-env
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
